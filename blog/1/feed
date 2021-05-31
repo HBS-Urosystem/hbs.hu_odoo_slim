@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Hírek, események</title>
+    <link href="http://hbs.hu/blog/1"/>
+    <id>http://hbs.hu/blog/1</id>
+    <updated>2020-04-09T15:58:27Z</updated>
+    <entry>
+        <title>Covid Rapid Test</title>
+        <link href="http://hbs.hu/blog/hirek-esemenyek-1/post/covid-rapid-test-10"/>
+        <id>http://hbs.hu/blog/hirek-esemenyek-1/post/covid-rapid-test-10</id>
+        <author><name>Administrator</name></author>
+        <summary>A kínai Clungene Co. Ltd 2004 óta kutat, fejleszt és gyárt mono- és poliklonális antitesteket, kolloidális arany immunteszteket, ELISA teszteket, RT...
+</summary>
+        <updated>2020-04-09T15:58:27Z</updated>
+    </entry><entry>
+        <title>Egyesület megalapítás</title>
+        <link href="http://hbs.hu/blog/hirek-esemenyek-1/post/egyesulet-megalapitas-9"/>
+        <id>http://hbs.hu/blog/hirek-esemenyek-1/post/egyesulet-megalapitas-9</id>
+        <author><name>Administrator</name></author>
+        <summary>Örömmel értesítünk róla mindenkit, hogy 2019. szeptember 30-án megalakult a *Hólyagfájdalom Szindrómában (Interstitialis Cystitis) Szenvedő Betegek ...
+</summary>
+        <updated>2019-10-31T14:58:52Z</updated>
+    </entry><entry>
+        <title>Unilaterális bipopláris endoszkópia a gerincsebészetben</title>
+        <link href="http://hbs.hu/blog/hirek-esemenyek-1/post/unilateralis-bipoplaris-endoszkopia-a-gerincsebeszetben-8"/>
+        <id>http://hbs.hu/blog/hirek-esemenyek-1/post/unilateralis-bipoplaris-endoszkopia-a-gerincsebeszetben-8</id>
+        <author><name>Administrator</name></author>
+        <summary>2019. október 4.-én az OKITI és cégünk szervezésében egész napos szakmai eseményen ismerhették meg a hazai gerincsebészek az UBE endoszkópia, mint új,...
+</summary>
+        <updated>2019-10-10T18:29:42Z</updated>
+    </entry><entry>
+        <title>Meghívó</title>
+        <link href="http://hbs.hu/blog/hirek-esemenyek-1/post/meghivo-7"/>
+        <id>http://hbs.hu/blog/hirek-esemenyek-1/post/meghivo-7</id>
+        <author><name>Administrator</name></author>
+        <summary>*Tisztelt Kollégák!* Szeretettel meghívjuk Önt a 2019. októbet 4-én tartandó szakmai napunkra, mely a hazánkban nemrégiben bevezetett Unilateralis B...
+</summary>
+        <updated>2019-09-07T12:47:01Z</updated>
+    </entry><entry>
+        <title>Októberben részt vettünk a Magyart Műtősasszisztensi Társulás 2018 évi kongresszusán, Hajdúszoboszlón</title>
+        <link href="http://hbs.hu/blog/hirek-esemenyek-1/post/oktoberben-reszt-vettunk-a-magyart-mutosasszisztensi-tarsulas-2018-evi-kongresszusan-hajduszoboszlon-6"/>
+        <id>http://hbs.hu/blog/hirek-esemenyek-1/post/oktoberben-reszt-vettunk-a-magyart-mutosasszisztensi-tarsulas-2018-evi-kongresszusan-hajduszoboszlon-6</id>
+        <author><name>Administrator</name></author>
+        <summary>...
+</summary>
+        <updated>2018-11-29T09:50:42Z</updated>
+    </entry><entry>
+        <title>Magyar Egészségügyi Szakdolgozók Kamarájának szervezésében lymphodema kezelési előadást tartottunk.</title>
+        <link href="http://hbs.hu/blog/hirek-esemenyek-1/post/magyar-egeszsegugyi-szakdolgozok-kamarajanak-szervezeseben-lymphodema-kezelesi-eloadast-tartottunk-1"/>
+        <id>http://hbs.hu/blog/hirek-esemenyek-1/post/magyar-egeszsegugyi-szakdolgozok-kamarajanak-szervezeseben-lymphodema-kezelesi-eloadast-tartottunk-1</id>
+        <author><name>Administrator</name></author>
+        <summary>...
+</summary>
+        <updated>2017-08-04T22:00:00Z</updated>
+    </entry>
+</feed>
