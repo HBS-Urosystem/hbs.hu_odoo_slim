@@ -67,6 +67,22 @@
 		"oAP": "/cworld.html",
 		"oF": 1
 		},
+	"/en/aboutus.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/en/aboutus.html",
+		"oF": 0
+		},
+	"/en/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/en/index.html",
+		"oF": 0
+		},
 	"/endovision.html": {
 		"cB": 0,
 		"ft": 8192,
